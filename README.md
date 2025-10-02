@@ -12,5 +12,5 @@
 2. Show the winner and score of each game.
 
 # 🛠️ Technologies Used
-. HTML | CSS | Javascript | Bootstrap | Slick 
+. HTML | CSS | Javascript 
    
